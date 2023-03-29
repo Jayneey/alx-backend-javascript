@@ -11,8 +11,8 @@ const studentA: Student = {
   location: "Seoul, South Korea",
 };
 const studentB: Student = {
-  firstName: "Anjali",
-  lastName: "Prajapati",
+  firstName: "Kazelle",
+  lastName: "Brekker",
   age: 22,
   location: "Lodz, Poland",
 };
