@@ -11,8 +11,8 @@ const studentA: Student = {
   location: "Seoul, South Korea",
 };
 const studentB: Student = {
-  firstName: "Anjali",
-  lastName: "Prajapati",
+  firstName: "Kazelle",
+  lastName: "Brekker",
   age: 22,
   location: "Lodz, Poland",
 };
@@ -57,7 +57,7 @@ const styleSheet = `
 /**
  * Displays information about students in a table.
  * @param students The list of students to display.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * @author Jane Affam  <https://github.com/Jayneey>
  */
 export const displayStudents = (students: Array<Student>): void => {
   const table = document.createElement('table');
