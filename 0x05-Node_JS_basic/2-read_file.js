@@ -1,12 +1,10 @@
-iconst fs = require('fs');
+const fs = require('fs');
 
 /**
  * Counts the students in a CSV data file.
  * @param {String} dataPath The path to the CSV data file.
  * @author Jane Affamuefuna <https://github.com/Jayneey>
  */
-
-const fs = require('fs');
 
 function countStudents(path) {
   try {
